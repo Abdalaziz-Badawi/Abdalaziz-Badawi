@@ -1,8 +1,8 @@
 ##👋 Hi, I’m @Abdalaziz-Badawi
 - 👀 I’m interested in Android App Development, Web Development, Data Science, and UI UX Design 
-- 📚 Undergraduate Student - Information Systems (Study on-hold) 
+- 📚 Undergraduate Student - Information Systems (Study on hold) 
 - 🌱 I’m currently learning Dart and UI/UX
-- 💞️ I’m looking to Develop my skills in any possible oppertunity
+- 💞️ I’m looking to Develop my skills in any possible opportunity
 - 📫 You can reach me via email abdalaziz.badawi02@gmail.com
 
 ## Skillset Includes
