@@ -25,6 +25,6 @@ Design Tools:
 Project Management:
 - Agile Project Management (Project management methodology)
 
-- ⚡ Other Interests: I like writing stories, Sketching, Listening to Music, Gaming, and Exercising ~
+- ⚡ Other Interests: I like writing stories, Sketching, Listening to Music, Gaming, and Long walk to clear the mind ~
 
 
