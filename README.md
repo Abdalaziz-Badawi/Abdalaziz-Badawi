@@ -5,8 +5,8 @@
 - 💞️ I’m looking to Develop my skills in any possible opportunity, searching for possible internships and jobs
 - 📫 You can reach me via email abdalaziz.badawi02@gmail.com
 
-Programming philosophy : DRY - Don't Repeat Yourself
-
+Programming philosophy: DRY - Don't Repeat Yourself
+~ Make a code that lasts
 
 Programming Languages:
 - HTML (Markup language)
