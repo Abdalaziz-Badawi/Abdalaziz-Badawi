@@ -1,30 +1,63 @@
-##👋 Hi, I’m @Abdalaziz-Badawi
-- 👀 I’m interested in Android App Development, Web Development, Data Analysis, and UI UX Design 
-- 📚 Undergraduate Student - Information Systems (Study on hold) 
-- 🌱 I’m currently learning Dart
-- 💞️ I’m looking to Develop my skills in any possible opportunity, searching for possible internships and jobs
-- 📫 You can reach me via email abdalaziz.badawi02@gmail.com
+# 👋 Hi, I'm Abdalaziz Badawi  
 
-Programming philosophy: DRY - Don't Repeat Yourself
-~ Make a code that lasts
+💻 **Junior App Developer (Flutter & Dart)**  
+🎨 **UI/UX Designer**  
+✍️ **Technical Writer**  
 
-Programming Languages:
-- HTML (Markup language)
-- CSS (Styling language)
-- JavaScript (Programming language)
-- Python (Programming language)
-- Dart (Programming language)
+Passionate about building apps with smooth user experiences and clean design. Always learning, always exploring.  
 
-Frontend Frameworks:
-- React (JavaScript library)
-- Flutter (Dart framework)
+## 🚀 Tech Stack  
 
-Design Tools:
-- Figma (UI/UX design and prototyping tool)
+### 🖥️ Languages & Frameworks  
+| Flutter | Dart | Python | HTML5 | CSS3 | JavaScript |
+|---------|------|--------|-------|------|-------------|
+| ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
 
-Project Management:
-- Agile Project Management (Project management methodology)
+---
 
-- ⚡ Other Interests: I like writing stories, Sketching, Listening to Music, Gaming, and Long walk to clear the mind ~
+### ⚒️ Tools & Platforms  
+| Git | GitHub | Figma | VS Code | Linux |
+|-----|--------|-------|---------|-------|
+| ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) | ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+
+---
+
+### 📖 Technical Skills  
+- **App Development**: Flutter, Dart (UI, State Management learning in progress)  
+- **Web Development**: HTML5, CSS3, JavaScript (basics)  
+- **Python**: Data analysis/visualization (pandas, matplotlib – beginner)  
+- **UI/UX Design**: Prototyping & mockups in Figma  
+- **Technical Writing**: Documentation, blog-style IT content, user guides  
+
+---
+
+## 📚 Currently Learning  
+- Flutter state management (Provider, Riverpod, etc.)  
+- SQL & API integration  
+- Expanding Python skills for apps and automation  
+
+---
+
+## 📊 GitHub Stats  
+
+| GitHub Stats | Top Languages |
+|--------------|---------------|
+| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdalazizbadawi&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdalazizbadawi&layout=compact&theme=tokyonight) |
 
 
+---
+
+## 🌍 Beyond Tech  
+- ✍️ Writing (technical writing + creative writing)  
+- 🤝 Volunteering (Ezdehar – Qatar Charity, reception & event support)  
+- 🎨 Design & sketching  
+- 🎶 Music, gaming, long walks  
+
+
+
+---
+
+💡  **DRY – Don’t Repeat Yourself | Make code that lasts.**
+
+---
+---
