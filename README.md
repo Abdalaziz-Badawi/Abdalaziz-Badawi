@@ -32,26 +32,19 @@ Passionate about building apps with smooth user experiences and clean design. Al
 ---
 
 ## 📚 Currently Learning  
-- Flutter state management (Provider, Riverpod, etc.)  
-- SQL & API integration  
-- Expanding Python skills for apps and automation  
-
----
-
-## 📊 GitHub Stats  
-
-| GitHub Stats | Top Languages |
-|--------------|---------------|
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdalazizbadawi&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdalazizbadawi&layout=compact&theme=tokyonight) |
-
+1.  Flutter - Provider state management
+2.  Flutter - Advanced Concepts
+3.  SQL & API integration
 
 ---
 
 ## 🌍 Beyond Tech  
-- ✍️ Writing (technical writing + creative writing)  
-- 🤝 Volunteering (Ezdehar – Qatar Charity, reception & event support)  
-- 🎨 Design & sketching  
-- 🎶 Music, gaming, long walks  
+- ✍️ Writing (Creative , Fiction writing)  
+- 🤝 Volunteering (Ezdehar | Qatar Charity)  
+- 🎨 Design & sketching
+- 🎶 Music & classics
+- 👾 Games
+- 🚴‍♂️ Cycling 
 
 
 
