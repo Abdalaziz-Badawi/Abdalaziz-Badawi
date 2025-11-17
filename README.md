@@ -53,4 +53,3 @@ Passionate about building apps with smooth user experiences and clean design. Al
 💡  **DRY – Don’t Repeat Yourself | Make code that lasts.**
 
 ---
----
