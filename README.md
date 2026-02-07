@@ -37,16 +37,21 @@ Passionate about building apps with smooth user experiences and clean design. Al
 3.  SQL & API integration
 
 ---
+## 🧑‍💻 Future Career Plan
+- App Developer > Software Architect : Building innovative software solutions that improves users quality of experience and life.  
+- University Professor : I find educaiton as a great way to giving back to the community and contributing to the future.
 
-## 🌍 Beyond Tech  
+## 🧑‍💻 SE Interests
+- Machine Learning & Artifical Intelligance 
+- Opertating Systems  
+
+## 🌍 Beyond Tech 
 - ✍️ Writing (Creative , Fiction writing)  
-- 🤝 Volunteering (Ezdehar | Qatar Charity)  
-- 🎨 Design & sketching
+- 🤝 Volunteering (Ezdehar | Qatar Charity, Red Crescent, ...etc)  
+- 🎨 Design & sketching (Specially industrial sketch design)
 - 🎶 Music & classics
 - 👾 Games
 - 🚴‍♂️ Cycling 
-
-
 
 ---
 
