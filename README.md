@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Abdalaziz Badawi  
 
-💻 **Junior App Developer (Flutter & Dart)**  
-🎨 **UI/UX Designer**  
+💻 **Junior Developer (Flutter & Dart)**  
 ✍️ **Technical Writer**  
 
 Passionate about building apps with smooth user experiences and clean design. Always learning, always exploring.  
